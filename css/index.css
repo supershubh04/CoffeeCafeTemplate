@@ -1,0 +1,530 @@
+			body
+			{
+				background: #fff;
+				overflow-x: hidden;
+
+			}
+			body 
+			{
+				background-size: cover;
+			}
+			
+			div div img		
+			{
+				height: 80px;
+				width: 80px;
+			}
+			.img2
+			{
+				
+				position: relative;
+				top: 100px;
+			
+			}
+			.bottom
+			{
+				height: 50px;
+				width: 500px;
+				position: relative;
+				left: 480px;
+				bottom: 50px	;
+			}
+			.brd01
+			{
+				height: 100px;
+				width: 390px;
+				position: absolute;
+				top: 105px;
+
+			}
+			.brd02
+			{
+				height: 100px;
+				width: 385px;
+				position: absolute;
+				right: 0px;
+				top: 105px;
+
+
+			}
+
+			.menus
+			{
+				position: absolute;
+				top: 350px;
+				
+			}
+			#menu
+			{
+				position: relative;
+				top: 100px;
+			}
+			
+			.menus ul
+			{
+				letter-spacing: .5px;
+				margin: 0px;
+				padding: 0px;
+			}
+			
+			.menus li
+			{
+				display:inline-block;
+			}
+			
+			.menus a
+			{
+				color: #563517;
+				padding: 10px;
+				font-size: 21px;
+				text-decoration: none;
+				font-family: monospace ;
+				display: block;
+				border-radius:15px;
+			}
+			
+			a:hover
+			{
+				font-size: 25px;
+				color: #6d4c36;
+				background: antiquewhite;
+				
+
+			}
+			.menus li ul
+			{
+				background-color: lightgray;
+				display: none;
+			}
+			
+			.menus li:hover ul
+			{
+				display: block;
+				position: absolute;
+				font-size: 40px;
+				background: antiquewhite;
+				z-index: 1;
+			}
+			
+			.menus li li
+			{
+				display: block;
+			}
+			
+			.menus li li a
+			{
+				border: 0px;
+			}
+
+			.img1
+			{
+				float:clear ;
+				padding-top:0px;
+				height: 150px;
+				width: 150px;
+
+			}
+			.btn
+			{
+				background: crimson;
+				font-size: 20px;
+				color: white;
+				font-family: monospace;
+				text-decoration: none;
+				border: 1px solid black;
+				border-radius: 5px;
+			}
+			.btn:hover
+			{
+				box-shadow: 0px 0px 5px darkred;
+				font-size: 20px;
+				background: white;
+				color: crimson;
+			}
+
+			.btn1:hover
+			{
+				background:antiquewhite;
+				
+
+			}
+			.btn1
+			{
+				color: #563517;
+				position:relative;
+				top:2px;
+				left:0px;
+				padding:0px;
+				border-radius: 100%;
+				height: 40px;
+				width: 40px;
+			}
+
+			.input
+			{
+				position:relative;
+				top:0px;
+				right:2px;
+				height:22px;
+				width:180px;
+				padding:5px;
+				margin-right:-8px;
+				border-radius:10px;
+			}
+			div div b
+			{
+				color: burlywood;
+				font-size: 80px;
+				border-radius: 50px;
+				text-shadow: 1px 1px 0px #000;
+				-webkit-text-stroke: px black;
+			}
+			.logo
+			{
+				text-align: center;
+				font-family: monotype corsiva;
+
+			}
+			.one::first-letter
+			{
+				font-size: 250px;
+				color:	#9c6f44;
+			}
+			h1
+			{
+				color: antiquewhite;
+				font-size: 60px;
+				text-align: center;
+				font-family: ;
+			}
+			
+			b{
+				background: url("..images/5228390.jpg");
+			}
+
+			.aboutus
+			{
+				position: relative;
+			    width:480px;
+			    margin: 50px 50px;
+			    width: 70%;
+			}
+			.title
+			{
+				color: #8a5d3c;
+				text-align: center;
+				margin-top: 10px;
+				font-size: 30px;
+			}
+			legend b
+			{
+				font-size: 80px;
+				font-family: Century Gothic;
+				
+			}
+			fieldset
+			{
+				padding: 0px;
+				margin: 0px;
+			}
+			
+			.slide02{
+				top:100px;
+			    position: relative;
+			    width: 100%;
+			    height: 700px;
+			    display: flex;
+			    justify-content: space-evenly;
+			}
+			.aboutus p
+			{
+				font-size: 35px;
+				font-family: monotype corsiva;
+				text-align: justify;
+				position: relative;
+				right: 40px;
+				line-height: 45px;
+			}
+			
+	 		.aboutimg img
+	 		{
+	 			width: 400px;
+	 			height: 640px;
+	 			margin: 0px;
+	 			padding: 0px;
+	 			border-radius: 20px;
+	 			position: absolute;
+	 			bottom: 5px;
+	 			left: 1100px;
+
+	 		}
+	 		div img
+	 		{
+	 			width: 100%;
+	 			height: 100%;
+	 		}
+
+/*our house*/
+			#home{
+				height: 1100px;
+				
+			}
+			#houseb
+			{
+				font-size: 60px;
+				font-family: monotype corsiva;
+				color: black;
+				position: relative;
+				top: 100px;
+				padding-left: 5px;
+
+				
+				
+			}
+			.house img
+			{
+				padding-right: 10px;
+				float: right;
+				height: 400px;
+				width: 700px;
+				
+				border-radius: 30px;
+			}
+			.house div p
+			{
+			font-size: 35px;
+			position: relative;
+			top: 80px;
+			padding-left: 0px;
+			font-family: monotype corsiva;
+			text-align: middle;
+			 } 
+
+
+			.home03 img
+			{ position: relative;
+			right: 780px; 
+			top: 160px;
+
+			}
+			.home03p
+			{
+				position: relative;
+				top: 400px;
+				left: 750px;
+				}
+
+	 		#cont
+	 		{
+	 			position: relative;
+	 			top: 100px;
+	 		}
+		    .cont1
+		    {	margin:5px;
+				 text-align:center;	
+				 border:0;
+				 color:#000;
+				 font-size:25px;
+				 font-family:calibri;
+				 margin:0px;
+				 padding: 0px;
+				background: antiquewhite;
+				 width: 40%;
+		    }
+		    iframe
+		    {
+		    	width: 950px;
+
+		    }
+		    .cont1 input
+			{
+				
+				height:40px;
+				width:450px;
+			   margin:2px;
+			   padding-top:12px;
+			}
+		    .cont_sec1
+		    {
+		    	width: 100%;
+		    	
+		    	display:flex;
+		    }
+			.inner-menu{
+			    width:100%;
+			    display: flex;
+			    justify-content: center;
+			    align-items: center;
+			    flex-direction: column;
+			}
+			.menu .content{
+			    display: flex;
+			    justify-content: center;
+			    align-items: center;
+			        flex-direction: row-reverse;
+			        flex-wrap: wrap;
+			        margin-top:40px;
+			}
+			.menu .content .inner-1{
+			    width:340px;
+			    margin: 20px 18px;
+			    border:15px solid #fff;
+			    box-shadow: 0 5px 35px rgba(0,0,0,0.08);
+			}
+			.menu .content .inner-1 .box{
+			    position: relative;
+			    width:100%;
+			    height: 300px;
+
+			}
+
+			.menu .content .inner-1 .box h3{	
+				font-size: 30px;
+				position: relative;
+				top: 280px;
+				color: red;
+			}
+			.menu .content .inner-1 .box img{
+			    position: absolute;
+			    top:20px;
+			    left:0;
+			    width:100%;
+			    height: 100%;
+			    object-fit: cover;
+			    transition: 0.5s;
+			    filter: grayscale(80%);
+			}
+			.menu .content .inner-1 .box img:hover{
+			    transform: translate3d(0px, -40px, 0px);
+			    transition-delay: .5s;
+			    cursor: pointer;
+			   
+			    backface-visibility: hidden;
+  				overflow: hidden;
+  				filter: grayscale(0%);
+
+			}
+			.menu button
+			{
+				background:red;
+				color: antiquewhite;
+				border-radius: 5px;
+				font-size: 20px;
+				font-family: monospace;
+				align-items:center ;
+				position: relative;
+				left: 20px;
+				width: 300px;
+				height: 30px;
+
+			}
+			button:hover
+			{
+				background-color: antiquewhite;
+				color: red;
+				box-shadow: 0px 0px 5px red;
+				
+				}
+			.text h3{
+			    text-align: center;
+			    font-size: 25px;
+			    color: #9c6f44 ;
+			}
+
+				   
+				    /*footer*/
+	.footer-section
+{
+		background: url("../images/footer10.jpeg");
+				background-size:cover ;
+				height: 600px;
+				width: 100%;
+				border-radius: 300px 0 0;
+				position: relative;
+				top: 80px
+
+				
+}
+
+.footer-section p
+{
+    font-size:25px;	
+	font-family:monotype corsiva;
+	color: antiquewhite;
+}
+.footer-section div
+{
+	width:20%;
+	display:inline-block;
+	position: relative;
+	left: 200px;
+	top: -30px;
+}
+.footer-section h1,h2, h3
+{
+	font-family:calibri;
+}	
+
+#foot
+{
+	padding-left:30px;
+	color: antiquewhite;
+	
+}
+
+.social ul li
+{
+	display:inline-block;
+	padding:8px;
+	text-align:center;
+}
+.social ul li
+{
+	padding:2px;
+	font-size:30px;
+
+}
+
+.plateform ul li 
+{
+    padding:2px;
+	font-size:20px;
+	color: antiquewhite;
+}
+.support ul li 
+{
+    padding:2px;
+	font-size:20px;
+	color: antiquewhite;
+}
+
+
+.footer-section ul li a
+{
+	text-decoration: none;
+	font-size:20px;
+	color:antiquewhite;
+
+}
+.footer-section div ul li a:hover
+			{
+				font-size: 22px;
+				background: antiquewhite;
+				color: black;
+				border-radius: 5px;
+				transition: 1s;
+
+				
+			}
+.quicklink ul 
+{
+	
+	text-align:center;
+	display: inline-block;	
+
+}
+.quicklink ul li
+{
+	text-align: left;
+	color: antiquewhite;
+}
